@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Play&display=swap');
+@import url("components/container.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+@import url("components/button.css");
+
+
+body {
+	font-family: 'Play', sans-serif;
+	font-size: 18px;
+	margin: 50px; 
+	text-align: center;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	font-family: 'Bebas Neue', cursive;
+	font-weight: bold;
+	width: 700px;
+	margin: 0 auto;
+	text-align: center;
+	align-items: center;
+}
+a {
+	text-decoration: none;
+}
